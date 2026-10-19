@@ -1,0 +1,31 @@
+{
+  "source": "https://www.xingcewang.com",
+  "section": "言语理解与表达",
+  "generatedAt": "2026-10-19T17:15:49+0800",
+  "paperCount": 658,
+  "paperCountsBySource": {
+    "moniti": 622,
+    "zhenti": 36
+  },
+  "uniqueQuestionCount": 3609,
+  "fieldsIncluded": [
+    "题干",
+    "选项",
+    "正确答案索引",
+    "题目ID",
+    "出现过的试卷"
+  ],
+  "fieldsExcluded": [
+    "长解析",
+    "短解析",
+    "AI标签",
+    "训练分数"
+  ],
+  "selection": {
+    "method": "按网站训练分数降序选择前 N 题",
+    "limit": 3609,
+    "cutoffScore": 249263,
+    "nextExcludedScore": 249261,
+    "status": "依据模块页题量与实际15分钟题组排名推导，非网站官方导出说明"
+  }
+}

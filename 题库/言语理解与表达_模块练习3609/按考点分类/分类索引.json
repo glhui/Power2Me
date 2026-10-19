@@ -1,0 +1,57 @@
+{
+  "questionCount": 3609,
+  "primaryCategoryCount": 7,
+  "classificationRule": "考点标签列表的第一个标签作为主分类",
+  "missingDetailCount": 0,
+  "categories": [
+    {
+      "name": "综合分析",
+      "count": 1378,
+      "share": 0.3818232197284566,
+      "anyTagCount": 1378,
+      "path": "综合分析"
+    },
+    {
+      "name": "主旨概括",
+      "count": 1209,
+      "share": 0.3349958437240233,
+      "anyTagCount": 1209,
+      "path": "主旨概括"
+    },
+    {
+      "name": "选词填空",
+      "count": 996,
+      "share": 0.27597672485453034,
+      "anyTagCount": 996,
+      "path": "选词填空"
+    },
+    {
+      "name": "语句排序",
+      "count": 22,
+      "share": 0.006095871432529786,
+      "anyTagCount": 22,
+      "path": "语句排序"
+    },
+    {
+      "name": "中心理解",
+      "count": 2,
+      "share": 0.0005541701302299807,
+      "anyTagCount": 3,
+      "path": "中心理解"
+    },
+    {
+      "name": "比喻理解",
+      "count": 1,
+      "share": 0.0002770850651149903,
+      "anyTagCount": 1,
+      "path": "比喻理解"
+    },
+    {
+      "name": "词语起源",
+      "count": 1,
+      "share": 0.0002770850651149903,
+      "anyTagCount": 1,
+      "path": "词语起源"
+    }
+  ]
+}

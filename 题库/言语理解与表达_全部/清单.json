@@ -1,0 +1,24 @@
+{
+  "source": "https://www.xingcewang.com",
+  "section": "言语理解与表达",
+  "generatedAt": "2026-10-19T17:13:05+0800",
+  "paperCount": 658,
+  "paperCountsBySource": {
+    "moniti": 622,
+    "zhenti": 36
+  },
+  "uniqueQuestionCount": 12452,
+  "fieldsIncluded": [
+    "题干",
+    "选项",
+    "正确答案索引",
+    "题目ID",
+    "出现过的试卷"
+  ],
+  "fieldsExcluded": [
+    "长解析",
+    "短解析",
+    "AI标签",
+    "训练分数"
+  ]
+}
