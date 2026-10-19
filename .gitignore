@@ -1,0 +1,13 @@
+# 本地密钥和设备专用状态
+.env
+.env.*
+!.env.example
+.local/
+private/
+
+# 生成文件和临时文件
+tmp/
+dist/
+__pycache__/
+*.pyc
+
